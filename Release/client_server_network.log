@@ -1,0 +1,24 @@
+﻿生成启动时间为 2014/6/21 21:00:31。
+     1>项目“D:\doc\vsws\client_server_network\client_server_network\client_server_network.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\client_network.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\doc\vsws\client_server_network\Release\client_network.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\doc\vsws\client_server_network\Release\client_network.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\doc\vsws\client_server_network\Release\client_network.lib" /MACHINE:X86 /SAFESEH Release\client_network.res
+         Release\ClientGame.obj
+         Release\ClientNetwork.obj
+         Release\client_server_network.obj
+         Release\main.obj
+         Release\NetworkService.obj
+         Release\ServerGame.obj
+         Release\ServerNetwork.obj
+         Release\stdafx.obj
+     1>LINK : warning LNK4067: 不明确的入口点；选定“mainCRTStartup”
+         正在生成代码
+         已完成代码的生成
+         client_server_network.vcxproj -> D:\doc\vsws\client_server_network\Release\client_network.exe
+     1>已完成生成项目“D:\doc\vsws\client_server_network\client_server_network\client_server_network.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.49
